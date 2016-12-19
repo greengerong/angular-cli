@@ -2,7 +2,7 @@
 'use strict';
 
 // Provide a title to the process in `ps`
-process.title = 'angular-cli';
+process.title = 'rebirth-ng2-cli';
 
 const resolve = require('resolve');
 const packageJson = require('../package.json');

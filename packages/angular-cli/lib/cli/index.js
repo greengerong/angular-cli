@@ -21,9 +21,9 @@ module.exports = function(options) {
   }
 
   options.cli = {
-    name: 'ng',
+    name: 'ng2',
     root: path.join(__dirname, '..', '..'),
-    npmPackage: 'angular-cli'
+    npmPackage: 'rebirth-ng2-cli'
   };
 
   // ensure the environemnt variable for dynamic paths
